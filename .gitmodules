@@ -1,0 +1,6 @@
+[submodule "bbs-backend-laravel"]
+	path = bbs-backend-laravel
+	url = git@gitee.com:wild2rift/bbs-backend-laravel.git
+[submodule "bbs-frontend-react"]
+	path = bbs-frontend-react
+	url = git@gitee.com:wild2rift/bbs-frontend-react.git
